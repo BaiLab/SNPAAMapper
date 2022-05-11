@@ -1,0 +1,6 @@
+vcfFile=clinvar_20220222.vcf
+intronBoundary=6
+geneAnnotation=ChrAll_knownGene.txt
+conversionFile=kgXref.txt
+sequenceFile=hg19_CDSIntronWithSign.txt.out
+
